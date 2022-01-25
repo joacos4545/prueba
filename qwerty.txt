@@ -2,6 +2,5 @@ qwerty
 qwerty123
 sd
 sdgit
-lahf
-del
-ted
+// estos son mis cambios sebas
+// ya nose que escribir
