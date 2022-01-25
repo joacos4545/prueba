@@ -1,0 +1,16 @@
+git status
+// para saber el estado 
+
+git add *
+o 
+git add .
+// para agregar todos los archivos al git
+
+git commit -m "mensaje aqui"
+//para guardar los cambios
+
+git push
+// para enviar tus cambios al repositorio remoto
+
+git pull
+// para jalar los cambios del repositorio remoto
